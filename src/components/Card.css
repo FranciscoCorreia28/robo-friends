@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'TITLE';
+    src: url("fonts/Queen\ of\ Camelot\ Outlines.otf");
+}
+
+h1{
+    font-family: 'TITLE';
+    letter-spacing: .5em;
+    color: rgb(0, 255, 255);
+}
+
+nav{
+    background:linear-gradient(to top, #109c4f, #5ff3a1); border-bottom:4px solid #fff; position: relative;
+   
+    
+}
